@@ -5,7 +5,7 @@
 #--------------------------------------------------------------
 
 version: 0.0
-os     : windows
+os: linux
 files:
-  - source     : \
-    destination: C:\inetpub\wwwroot
+  - source: /
+    destination: /var/www/html
