@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_DEFAULT_REGION: "eu-central-1"
-    AWS_ACCOUNT_ID    : "905418199722"
+    AWS_ACCOUNT_ID    : "905418307264"
     ECR_REPO_NAME     : "castomfm.com"
     ECR_IMAGE_TAG     : "latest"
 
